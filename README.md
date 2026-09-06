@@ -1,58 +1,87 @@
 👋 Hi, I'm Muhammad Umar
-💻 Aspiring Web Developer | SMIT Student | Tech Enthusiast
+💻 Aspiring Web Developer | 🎓 SMIT Student | 🚀 Tech Enthusiast
+Welcome to my GitHub profile! 👋
 
-Welcome to my GitHub profile! 🚀
+I'm Muhammad Umar, a passionate and motivated learner currently studying Modern Web Application Development at Saylani Mass IT Training (SMIT).
 
-I'm currently learning Modern Web Development at Saylani Mass IT Training (SMIT) and building my skills step by step through coding, assignments, and personal projects.
+I'm on a journey to become a Full-Stack Web Developer, learning new technologies, building projects, solving problems, and improving my skills every day. 🚀
 
 🧑‍💻 About Me
-🎓 Currently learning Modern Web Application Development
-🏫 Student at Saylani Mass IT Training (SMIT)
+🎓 Student at Saylani Mass IT Training (SMIT)
 🌱 Currently learning HTML, CSS & JavaScript
-💡 Interested in Web Development & Technology
+💻 Interested in Web Development
 🚀 Working towards becoming a Full-Stack Developer
-📚 Always learning something new
-🤝 Open to learning, collaboration and new opportunities
-
-📚 My Learning Journey
-
+📚 Learning through assignments, projects, and practice
+🔥 Passionate about technology and programming
+🤝 Open to collaboration and learning opportunities
+🎯 Focused on building real-world projects
+🛠️ Technologies I'm Learning
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github" /> </p>
+📚 Coming Soon
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" /> </p>
+📖 My Learning Journey
 HTML & CSS
-    ↓
+     ↓
 JavaScript
-    ↓
+     ↓
 Responsive Web Design
-    ↓
+     ↓
 Git & GitHub
-    ↓
+     ↓
 React.js
-    ↓
-Node.js
-    ↓
+     ↓
+Node.js & Express
+     ↓
 Databases
-    ↓
+     ↓
 Full-Stack Development 🚀
 
-🎯 2026 Goals
-
+🎯 My 2026 Goals
 ✅ Start my Web Development journey
-🔄 Improve HTML & CSS skills
+🔄 Master HTML & CSS
 🔄 Learn JavaScript
-⏳ Build my first real-world projects
+⏳ Build real-world projects
 ⏳ Learn React.js
 ⏳ Learn Backend Development
+⏳ Work with Databases
 ⏳ Build a strong GitHub portfolio
 ⏳ Become a Full-Stack Web Developer
-
->
-
 📈 My Developer Journey
+🌱 Learning
+     ↓
+💻 Building
+     ↓
+🧠 Improving
+     ↓
+🚀 Creating
+     ↓
+📤 Sharing
+     ↓
+📈 Growing
 
-Learning → Building → Improving → Sharing → Growing 🚀
+Every project is an opportunity to learn something new and become a better developer.
 
-This profile will document my journey from a beginner developer to a professional software developer.
+🚀 Projects
+I'm currently working on improving my skills through:
 
-More projects coming soon! 👨‍💻
+🌐 HTML & CSS projects
+⚡ JavaScript practice
+📱 Responsive web designs
+🧩 Coding assignments
+🚀 Personal projects
+More exciting projects coming soon! 👨‍💻
 
-⭐ Thanks for visiting my profile!
+🤝 Let's Connect
+I'm always interested in:
 
-Keep Learning. Keep Building. Keep Growing. 🚀
+💡 Learning new technologies
+🤝 Collaborating on projects
+🧑‍💻 Connecting with fellow developers
+🚀 Exploring new opportunities
+⭐ Thanks for Visiting!
+Thanks for stopping by my GitHub profile! ❤️
+
+I'm just getting started, and this profile will document my journey from a beginner developer to a professional software developer.
+
+💙 Keep Learning. Keep Building. Keep Growing. 🚀
+</div>
