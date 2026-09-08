@@ -2,11 +2,13 @@
 
 🔴LIVE MULTIPAGES WEBSITE | https://muhammadumar-078.github.io/MuhammadUmar-078/
 
-🔴LIVE RECIPES WEBSITE | https://muhammadumar-078.github.io/RECIPES-WEBSITE/
+🔴LIVE RECIPES WEBSITE | https://muhammadumar-078.github.io/RECIPES-WEBSITE/**
 
 # 📚 My Project
 
 💻 MULTI PAGES WEBSITE | https://github.com/MuhammadUmar-078/MULTIPAGES-WEBSITE.git
+
+💻 RECIPES WEBSITE | https://github.com/MuhammadUmar-078/RECIPES-WEBSITE.git/**
 
 # 👋 Hi, I'm Muhammad Umar
 
