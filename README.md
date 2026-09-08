@@ -8,7 +8,7 @@
 
 💻 MULTI PAGES WEBSITE | https://github.com/MuhammadUmar-078/MULTIPAGES-WEBSITE.git
 
-#💻 RECIPES WEBSITE | https://github.com/MuhammadUmar-078/RECIPES-WEBSITE.git/
+💻 RECIPES WEBSITE | https://github.com/MuhammadUmar-078/RECIPES-WEBSITE.git/
 
 # 👋 Hi, I'm Muhammad Umar
 
