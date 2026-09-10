@@ -4,8 +4,6 @@
 
 **🔴LIVE RECIPES WEBSITE** | https://muhammadumar-078.github.io/RECIPES-WEBSITE
 
-https://github.com/MuhammadUmar-078/SAUDIA-PAKISTAN-WEBSITE.git
-
 # 📂  My Project
 
 💻 **WIKIPEDIA WEBSITE** | https://github.com/MuhammadUmar-078/MULTIPAGES-WEBSITE.git
