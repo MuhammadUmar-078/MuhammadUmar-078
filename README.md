@@ -4,7 +4,7 @@
 
 **🔴LIVE RECIPES WEBSITE** | https://muhammadumar-078.github.io/RECIPES-WEBSITE
 
-**🔴 LIVE MY PORTFOLIO** | https://github.com/MuhammadUmar-078/MY-PORTFOLIO.git
+**🔴 LIVE MY PORTFOLIO** | t https://muhammadumar-078.github.io/MY-PORTFOLIO/
 
 # 📂  My Project
 
